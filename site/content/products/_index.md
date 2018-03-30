@@ -1,6 +1,5 @@
 ---
 title: Our Coffee
-type: products
 image: /img/products-jumbotron.jpg
 heading: What we offer
 description: >-
@@ -95,8 +94,7 @@ pricing:
         - Whatever you need
         - Green or roasted beans
         - Unlimited varieties
-      plan: Custom
+      plan: Choose Your Price
       price: '?'
 ---
-
 
